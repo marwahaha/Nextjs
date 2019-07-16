@@ -52,4 +52,4 @@ make a visit to localhost:3000/xxx
 
 ### Important 
 
-read abotu getInitialProps() --> see exampls in index.js and auth/index.js
+read about getInitialProps() --> see exampls in index.js and auth/index.js
